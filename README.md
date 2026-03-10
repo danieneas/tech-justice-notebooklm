@@ -1,41 +1,45 @@
-## Por que este projeto? (Contexto e Objetivos)
-Depois de escrever meu TCC sobre **Vitimologia e Violência Doméstica**, percebi que o volume de informações (leis, tratados e doutrina) é gigante. Decidi aceitar o desafio da DIO para ver como a IA poderia me ajudar a organizar tudo isso de forma inteligente.
+Tech-Justice-Notebook: Vitimologia & IA 
 
-Meu objetivo aqui foi transformar esse conteúdo denso em um guia de consulta rápida, cruzando o que estudei no TCC com a **Lei Maria da Penha** e diretrizes da **ONU**, criando um ambiente de estudo muito mais prático.
-
----
-
-## Minha Curadoria de Fontes
-Para esse caderno não ficar apenas no "achismo", selecionei fontes que conversam entre si:
-
-* **Meu TCC:** *Vitimologia e a Violência Doméstica Contra a Mulher* (A base teórica do projeto).
-* **Lei Maria da Penha:** Para garantir a precisão jurídica brasileira.
-* **Documento da ONU:** Para trazer a perspectiva global sobre os direitos das vítimas.
-* **Vídeos de Apoio:** Selecionei aulas do YouTube (Minutos Psíquicos e Cíntia Brunelli) para entender a psicologia e as classificações das vítimas.
+##  Contexto e Objetivos
+Este projeto foi desenvolvido para o desafio da **DIO**, utilizando o **Google NotebookLM**. O objetivo foi transformar a pesquisa do meu TCC em um "caderno inteligente", cruzando dados acadêmicos com a **Lei Maria da Penha**, diretrizes da **ONU** e conteúdos multimídia sobre o Ciclo da Violência e a Vitimologia.
 
 ---
 
-## Papo com a IA: Prompts e "Cicatrizes"
-Interagir com a IA foi um aprendizado. Nem sempre ela entendeu de primeira, e foi aí que precisei ajustar meu raciocínio:
+##  Curadoria de Fontes
+Utilizei as seguintes fontes para treinar a IA neste projeto:
+* **TCC:** *Vitimologia e a Violência Doméstica Contra a Mulher* (Danielle Silva).
+* **Legislação:** [Lei Maria da Penha (11.340/06)](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm).
+* **Direito Internacional:** [Declaração da ONU para Vítimas de Crimes](https://www.cnmp.mp.br/defesadasvitimas/normas-e-jurisprudencia/normas-internacionais).
+* **Vídeos:** Aulas sobre o Ciclo da Violência e Conceitos de Vitimologia (YouTube).
 
-* **O que funcionou:** Pedi para ela comparar o meu TCC com o vídeo da Cíntia Brunelli. O resultado foi ótimo: ela conseguiu explicar a **Vitimização Secundária** citando as falhas institucionais que mencionei no meu texto.
-* **Onde ela "derrapou" (Minhas Cicatrizes):** No início, o NotebookLM misturou as fases do ciclo. Tive que dar um ajuste (prompt de correção) dizendo: *"Não misture as fases; use o Ciclo de Walker das minhas fontes para separar Tensão de Explosão"*. Isso refinou a análise.
+---
+
+##  Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
+Aqui registro como interagi com a IA para obter os melhores resultados:
+
+* **O que funcionou:** O cruzamento entre o TCC e as fontes da ONU permitiu identificar que a vitimização secundária ocorre por falhas estruturais do Estado.
+* **Cicatriz (O teste de estresse):** Questionei a IA sobre a porcentagem exata de mulheres que sofrem vitimização terciária hoje no Brasil. 
+    * **Resposta da IA:** Ela informou corretamente que as fontes não continham esse dado exato, mas explicou que o silenciamento (45% das vítimas na pandemia) e as **Cifras Negras** são causados justamente por essa vitimização.
+    * **Aprendizado:** Isso demonstrou que a IA respeitou os limites dos documentos fornecidos, evitando inventar dados (alucinação).
 
 ---
 
-## Meu Miniguia de Estudos (Entrega Final)
+##  Miniguia de Estudo (Entrega Final)
 
-### 1. Resumo: O Ciclo da Violência
-O ciclo é repetitivo e perverso: começa na **Tensão** (ameaças e controle), explode no **Ataque** (agressão física ou moral) e termina na **Lua de Mel** (falso arrependimento). Entender isso é vital para qualquer profissional do Direito.
+### 1. Resumo Estruturado: O Ciclo da Violência
+1.  **Aumento da Tensão:** Controle e violência psicológica.
+2.  **Ataque Violento:** Agressão física ou moral aguda.
+3.  **Lua de Mel:** Falso arrependimento, que mantém a vítima no ciclo de dependência.
 
-### 2. Glossário "Direto ao Ponto"
-* **Vitimologia:** O estudo do crime focado na experiência de quem sofreu o dano.
-* **Cifras Negras:** Crimes que não entram nas estatísticas oficiais por falta de denúncia.
-* **Revitimização:** O sofrimento causado pelo próprio sistema (polícia/justiça) ao acolher mal a vítima.
+### 2. Glossário de Conceitos Aprendidos
+* **Vitimologia:** Estudo da vítima no cenário criminal.
+* **Cifras Negras:** Crimes que não chegam ao conhecimento das autoridades.
+* **Vitimização Secundária:** Sofrimento causado por instituições (ex: delegacias e tribunais).
+* **Vitimização Terciária:** O abandono da vítima pela sociedade, amigos e família.
 
-### 3. Prompts para você testar:
-* *"Quais as principais diferenças entre vitimização primária e secundária segundo as fontes?"*
-* *"Liste as medidas protetivas da Lei Maria da Penha de forma resumida."*
+### 3. Prompts Reutilizáveis para Revisão
+* *"Explique a relação entre Cifras Negras e a falta de amparo social à vítima."*
+* *"Quais os principais sinais da fase de Tensão no Ciclo da Violência?"*
 
 ---
-*Projeto desenvolvido por Danineas para o desafio de IA da DIO.*
+*Projeto realizado para o desafio de IA da DIO por Danineas.*
