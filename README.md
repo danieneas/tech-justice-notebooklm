@@ -1,45 +1,45 @@
-Tech-Justice-Notebook: Vitimologia & IA 
+# Tech-Justice-Notebook: Vitimologia e IA Generativa
 
-##  Contexto e Objetivos
-Este projeto foi desenvolvido para o desafio da **DIO**, utilizando o **Google NotebookLM**. O objetivo foi transformar a pesquisa do meu TCC em um "caderno inteligente", cruzando dados acadêmicos com a **Lei Maria da Penha**, diretrizes da **ONU** e conteúdos multimídia sobre o Ciclo da Violência e a Vitimologia.
-
----
-
-##  Curadoria de Fontes
-Utilizei as seguintes fontes para treinar a IA neste projeto:
-* **TCC:** *Vitimologia e a Violência Doméstica Contra a Mulher* (Danielle Silva).
-* **Legislação:** [Lei Maria da Penha (11.340/06)](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm).
-* **Direito Internacional:** [Declaração da ONU para Vítimas de Crimes](https://www.cnmp.mp.br/defesadasvitimas/normas-e-jurisprudencia/normas-internacionais).
-* **Vídeos:** Aulas sobre o Ciclo da Violência e Conceitos de Vitimologia (YouTube).
+## Contexto e Objetivos
+Este projeto foi desenvolvido para o desafio da DIO, utilizando o Google NotebookLM para converter uma pesquisa acadêmica em um caderno inteligente interativo. O objetivo central foi realizar o cruzamento analítico entre a doutrina da Vitimologia e a Lei Maria da Penha (11.340/06). Através da IA, buscou-se identificar os padrões da fenomenologia do Ciclo da Violência e compreender os processos de vitimização que contribuem para a manutenção das Cifras Negras no sistema de justiça brasileiro.
 
 ---
 
-##  Engenharia de Prompts e Cicatrizes
-Aqui registro como interagi com a IA para obter os melhores resultados:
+## Curadoria de Fontes
+Para a estruturação da base de conhecimento do notebook, foram utilizadas as seguintes fontes:
+* Produção Acadêmica: Vitimologia e a Violência Doméstica Contra a Mulher (Danielle Silva).
+* Base Normativa: Lei Maria da Penha (11.340/06).
+* Direito Internacional: Declaração da ONU sobre Princípios de Justiça para Vítimas.
+* Análise Multimídia: Estudos técnicos sobre o Ciclo de Violência e Estruturas de Vitimização.
 
-* **O que funcionou:** O cruzamento entre o TCC e as fontes da ONU permitiu identificar que a vitimização secundária ocorre por falhas estruturais do Estado.
-* **Cicatriz (O teste de estresse):** Questionei a IA sobre a porcentagem exata de mulheres que sofrem vitimização terciária hoje no Brasil. 
-    * **Resposta da IA:** Ela informou corretamente que as fontes não continham esse dado exato, mas explicou que o silenciamento (45% das vítimas na pandemia) e as **Cifras Negras** são causados justamente por essa vitimização.
-    * **Aprendizado:** Isso demonstrou que a IA respeitou os limites dos documentos fornecidos, evitando inventar dados (alucinação).
+---
+
+## Engenharia de Prompts e Cicatrizes
+Registro da interação técnica com a inteligência artificial para refinamento de resultados:
+
+* Eficácia Operacional: O cruzamento entre o conteúdo do TCC e as normas internacionais permitiu que a IA identificasse com precisão os vetores da Vitimização Secundária derivados de falhas institucionais.
+* Cicatriz (Teste de Estresse): Solicitei à IA dados estatísticos em tempo real sobre a Vitimização Terciária no Brasil.
+* Resposta da IA: O modelo reportou corretamente a ausência desses dados quantitativos nas fontes fornecidas, demonstrando conformidade e evitando alucinações.
+* Ajuste de Raciocínio: Após a limitação de dados, o prompt foi reestruturado para que a IA analisasse como o estigma social e a fragilidade das redes de apoio operam como causas da subnotificação e do incremento das Cifras Negras.
 
 ---
 
-##  Miniguia de Estudo -(Entrega Final)
+## Miniguia de Estudo
 
-### 1. Resumo Estruturado: O Ciclo da Violência
-1.  **Aumento da Tensão:** Controle e violência psicológica.
-2.  **Ataque Violento:** Agressão física ou moral aguda.
-3.  **Lua de Mel:** Falso arrependimento, que mantém a vítima no ciclo de dependência.
+### 1. Resumo Estruturado: A Fenomenologia do Ciclo da Violência
+* Aumento da Tensão: Fase marcada pelo controle coercitivo e escalada da violência psicológica.
+* Explosão: O ápice da agressão, manifestado por violência física ou moral aguda.
+* Reconciliação (Lua de Mel): Período de manipulação afetiva e estabilidade aparente, que assegura a manutenção do vínculo abusivo e o reinício do ciclo.
 
-### 2. Glossário de Conceitos Aprendidos
-* **Vitimologia:** Estudo da vítima no cenário criminal.
-* **Cifras Negras:** Crimes que não chegam ao conhecimento das autoridades.
-* **Vitimização Secundária:** Sofrimento causado por instituições (ex: delegacias e tribunais).
-* **Vitimização Terciária:** O abandono da vítima pela sociedade, amigos e família.
+### 2. Glossário Criminológico
+* Vitimologia: Estudo científico da vítima e sua interação com o crime e as agências de controle.
+* Cifras Negras: Diferença estatística entre a criminalidade real e a criminalidade formalmente registrada.
+* Vitimização Secundária: Sofrimento adicional causado pelo despreparo ou ineficiência das instituições do sistema de justiça.
+* Vitimização Terciária: Processo de segregação e abandono da vítima por parte da sociedade e de seus núcleos primários de apoio.
 
-### 3. Prompts Reutilizáveis para Revisão
-* *"Explique a relação entre Cifras Negras e a falta de amparo social à vítima."*
-* *"Quais os principais sinais da fase de Tensão no Ciclo da Violência?"*
+### 3. Prompts Reutilizáveis
+* Analise a correlação entre a Vitimização Terciária e o aumento das Cifras Negras no sistema penal.
+* Descreva os indicadores da fase de Tensão no Ciclo da Violência sob a ótica da Lei 11.340/06.
 
 ---
-*Projeto realizado para o desafio de IA da DIO por Danineas.*
+Projeto desenvolvido por Danineas, Bacharel em Criminologia, para a trilha de IA da DIO.
