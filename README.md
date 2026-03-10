@@ -1,45 +1,50 @@
 # Tech-Justice-Notebook: Vitimologia e IA Generativa
 
 ## Contexto e Objetivos
-Este projeto foi desenvolvido para o desafio da DIO, utilizando o Google NotebookLM para converter uma pesquisa acadêmica em um caderno inteligente interativo. O objetivo central foi realizar o cruzamento analítico entre a doutrina da Vitimologia e a Lei Maria da Penha (11.340/06). Através da IA, buscou-se identificar os padrões da fenomenologia do Ciclo da Violência e compreender os processos de vitimização que contribuem para a manutenção das Cifras Negras no sistema de justiça brasileiro.
+Este projeto foi desenvolvido para o desafio da DIO, utilizando o Google NotebookLM para converter a pesquisa do meu TCC em um motor de busca semântico e analítico. O objetivo foi explorar a fenomenologia da violência doméstica sob a ótica do feminismo interseccional e da Vitimologia, analisando como falhas estatais e estigmas sociais perpetuam o ciclo de abusos e alimentam as cifras negras no Brasil.
 
 ---
 
-## Curadoria de Fontes
-Para a estruturação da base de conhecimento do notebook, foram utilizadas as seguintes fontes:
-* Produção Acadêmica: Vitimologia e a Violência Doméstica Contra a Mulher (Danielle Silva).
-* Base Normativa: Lei Maria da Penha (11.340/06).
-* Direito Internacional: Declaração da ONU sobre Princípios de Justiça para Vítimas.
-* Análise Multimídia: Estudos técnicos sobre o Ciclo de Violência e Estruturas de Vitimização.
+## Curadoria de Fontes 
+Para este estudo, foram carregadas **7 fontes** selecionadas, incluindo:
+* **Produção Autoral:** Artigo científico sobre Vitimologia e Violência Doméstica (Danielle Silva).
+* **Normativas:** Lei Maria da Penha (11.340/06) e Declaração da ONU para Vítimas de Crimes.
+* **Multimídia:** Vídeos técnicos sobre o Ciclo de Violência de Lenore Walker e Síndrome da Mulher Maltratada.
 
 ---
 
-## Engenharia de Prompts e Cicatrizes
-Registro da interação técnica com a inteligência artificial para refinamento de resultados:
+## Engenharia de Prompts e Cicatrizes 
+Documentação do processo de extração de conhecimento via IA:
 
-* Eficácia Operacional: O cruzamento entre o conteúdo do TCC e as normas internacionais permitiu que a IA identificasse com precisão os vetores da Vitimização Secundária derivados de falhas institucionais.
-* Cicatriz (Teste de Estresse): Solicitei à IA dados estatísticos em tempo real sobre a Vitimização Terciária no Brasil.
-* Resposta da IA: O modelo reportou corretamente a ausência desses dados quantitativos nas fontes fornecidas, demonstrando conformidade e evitando alucinações.
-* Ajuste de Raciocínio: Após a limitação de dados, o prompt foi reestruturado para que a IA analisasse como o estigma social e a fragilidade das redes de apoio operam como causas da subnotificação e do incremento das Cifras Negras.
+* **Prompts Estruturantes:** Foram realizados testes de correlação complexos, como o confronto entre a Declaração da ONU e a aplicação prática dos direitos das vítimas no cenário brasileiro descrito no TCC.
+* **Cicatriz (O Teste de Estresse):** Questionei a IA sobre a porcentagem exata de mulheres em vitimização terciária no Brasil hoje.
+* **Resultado:** A IA demonstrou maturidade ao reportar que as fontes não continham esse dado quantitativo específico, evitando alucinações. O ajuste permitiu concluir que a vitimização terciária é, na verdade, um dos fatores que geram a falta desses dados (Cifras Negras).
 
 ---
 
-## Miniguia de Estudo
+## Miniguia de Estudo 
 
-### 1. Resumo Estruturado: A Fenomenologia do Ciclo da Violência
-* Aumento da Tensão: Fase marcada pelo controle coercitivo e escalada da violência psicológica.
-* Explosão: O ápice da agressão, manifestado por violência física ou moral aguda.
-* Reconciliação (Lua de Mel): Período de manipulação afetiva e estabilidade aparente, que assegura a manutenção do vínculo abusivo e o reinício do ciclo.
+### 1. Resumo Estruturado: O Ciclo da Violência de Lenore Walker
+1. **Tensão:** Acúmulo de controle e agressividade psicológica.
+2. **Explosão:** O episódio agudo de violência física ou moral (fase em que a Lei Maria da Penha é mais acionada por ser o momento de ruptura/emergência).
+3. **Lua de Mel:** Fase de manipulação afetiva e falso arrependimento que mantém o vínculo de dependência.
 
 ### 2. Glossário Criminológico
-* Vitimologia: Estudo científico da vítima e sua interação com o crime e as agências de controle.
-* Cifras Negras: Diferença estatística entre a criminalidade real e a criminalidade formalmente registrada.
-* Vitimização Secundária: Sofrimento adicional causado pelo despreparo ou ineficiência das instituições do sistema de justiça.
-* Vitimização Terciária: Processo de segregação e abandono da vítima por parte da sociedade e de seus núcleos primários de apoio.
+* **Vitimologia:** Estudo científico focado na vítima e sua interação com o sistema de justiça.
+* **Cifras Negras:** Crimes não reportados às autoridades por medo ou falta de acolhimento.
+* **Vitimização Secundária:** Dano causado pelas instituições e autoridades (revitimização).
+* **Vitimização Terciária:** Sofrimento imposto pelo abandono social, familiar e estigmatização.
 
-### 3. Prompts Reutilizáveis
-* Analise a correlação entre a Vitimização Terciária e o aumento das Cifras Negras no sistema penal.
-* Descreva os indicadores da fase de Tensão no Ciclo da Violência sob a ótica da Lei 11.340/06.
+### 3. Checklist de Acolhimento 
+1. **Acreditar no relato:** Ouvir sem descredibilizar ou culpabilizar a vítima.
+2. **Evitar a revitimização:** Minimizar a repetição do relato do trauma perante autoridades.
+3. **Dignidade e Humanidade:** Atendimento pautado pela compaixão, evitando perguntas invasivas.
+4. **Ruptura de Estigmas:** Combater ditados que naturalizam a violência e isolam a mulher.
+5. **Apoio à Autonomia:** Focar na recuperação da dignidade e informar sobre recursos (ex: Ligue 180).
+
+### 4. Prompts Reutilizáveis para Revisão
+* "Como o feminismo interseccional ajuda a entender as barreiras específicas da violência doméstica?"
+* "Compare a abordagem da Vitimologia no TCC com as normas internacionais da ONU."
 
 ---
 Projeto desenvolvido por Danineas, Bacharel em Criminologia, para a trilha de IA da DIO.
