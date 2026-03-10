@@ -14,7 +14,7 @@ Utilizei as seguintes fontes para treinar a IA neste projeto:
 
 ---
 
-##  Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
+##  Engenharia de Prompts e Cicatrizes
 Aqui registro como interagi com a IA para obter os melhores resultados:
 
 * **O que funcionou:** O cruzamento entre o TCC e as fontes da ONU permitiu identificar que a vitimização secundária ocorre por falhas estruturais do Estado.
@@ -24,7 +24,7 @@ Aqui registro como interagi com a IA para obter os melhores resultados:
 
 ---
 
-##  Miniguia de Estudo (Entrega Final)
+##  Miniguia de Estudo -(Entrega Final)
 
 ### 1. Resumo Estruturado: O Ciclo da Violência
 1.  **Aumento da Tensão:** Controle e violência psicológica.
